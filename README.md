@@ -51,5 +51,5 @@ Navigate to the settings page for your **Purdue-CS193-Fall-2019/homework-1-\<You
 | Correctly added name to the heading   | 1      |
 | List exists   | 1      |
 | List is ‘bulleted’   | 1      |
-| List is ‘bulleted’   | 2      |
+| Successfully committed homework   | 2      |
 | Total   | 10      |
